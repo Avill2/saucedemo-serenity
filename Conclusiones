@@ -1,0 +1,5 @@
+El ejercicio permitió implementar una prueba automatizada End to End del flujo de compra en la página SauceDemo, utilizando Serenity BDD con Cucumber y Selenium.
+
+Durante el desarrollo se configuró un proyecto desde cero, aplicando el patrón Page Object Model y definiendo escenarios en lenguaje Gherkin, lo que facilita la comprensión del flujo de negocio.
+Se presentaron inconvenientes relacionados con la configuración de dependencias en Maven, los cuales fueron analizados y corregidos, permitiendo comprender la importancia de una correcta gestión de versiones y librerías en proyectos de automatización.
+Como recomendación, se sugiere utilizar versiones estables, desacoplar los datos de prueba del código, aprovechar los reportes automáticos de Serenity y mantener el proyecto versionado en un repositorio GitHub para facilitar su mantenimiento y revisión.
