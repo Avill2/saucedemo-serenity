@@ -1,0 +1,7 @@
+pages\ProductsPage.class
+runners\CucumberTestSuiteIT.class
+stepdefinitions\CompraStepDefinitions.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\CheckoutPage.class
+steps\CompraSteps.class
